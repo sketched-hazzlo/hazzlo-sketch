@@ -220,7 +220,7 @@ export default function Landing() {
                 <Button 
                   size="lg" 
                   className="bg-blue-600 hover:bg-blue-700 dark:bg-blue-500 dark:hover:bg-blue-600 text-white"
-                  onClick={() => setAuthModalOpen(true)}
+                  onClick={() => window.location.href = '/auth'}
                 >
                   Crear perfil profesional
                   <svg className="ml-2 h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -385,7 +385,7 @@ export default function Landing() {
                 size="lg" 
                 variant="outline" 
                 className="bg-transparent hover:bg-white/10 text-white border-white/30 hover:border-white/50"
-                onClick={() => setAuthModalOpen(true)}
+                onClick={() => window.location.href = '/auth'}
               >
                 Soy profesional
                 <svg className="ml-2 h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
