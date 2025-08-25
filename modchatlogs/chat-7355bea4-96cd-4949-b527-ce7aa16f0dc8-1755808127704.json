@@ -1,0 +1,20 @@
+{
+  "chatId": "7355bea4-96cd-4949-b527-ce7aa16f0dc8",
+  "subject": "Duda",
+  "userId": "3556560c-ac05-479e-93c4-55d9c317ea13",
+  "moderatorId": "40ddd72e-ab6e-4e9d-a870-e327e79c3cc7",
+  "startedAt": "2025-08-21T20:26:59.750Z",
+  "closedAt": "2025-08-21T20:28:47.698Z",
+  "messages": [
+    {
+      "sender": "system",
+      "content": "Estas a la espera de un agente",
+      "timestamp": "2025-08-21T20:26:59.802Z"
+    },
+    {
+      "sender": "system",
+      "content": "Tu situación ha sido escalada",
+      "timestamp": "2025-08-21T20:28:08.491Z"
+    }
+  ]
+}
